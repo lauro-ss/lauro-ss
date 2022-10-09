@@ -1,7 +1,7 @@
 <h1>console.log("Hello World");</h1>
 <h2>About Me</h2>
 <p>I am currently student at Universidade Federal de Sergipe in Brazil-SE :student:</p>
-<p>In love with Web Programing :cupid: </p>
+<p>In love with Web Programing and ASP.NET :cupid: </p>
 <!-- <p>I Like to build anything with any technology, always trying to learn more.</p> -->
 <p>Currently at collaboration with <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a><p>
 <!--
