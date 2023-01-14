@@ -20,8 +20,8 @@
 -->
 <div align="center">
   <a href="https://github.com/lauro-ss">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lauro-ss&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=20000&text_color=8a8a8a&custom_title=Lauro%20Santana%20Github%20Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauro-ss&layout=compact&theme=transparent&text_color=8a8a8a"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lauro-ss&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=20000&text_color=8a8a8a&custom_title=Lauro%20Santana%20Github%20Stats"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lauro-ss&layout=compact&theme=transparent&text_color=8a8a8a"/>
   </a>
 </div>
 <h2>Social</h2>
