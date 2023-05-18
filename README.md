@@ -31,4 +31,4 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=lauro-ss&&style=flat-square" align="center" /> -->
 </div>
 </br>
-<p align="center">Do you wanna a cookie? :cookie:</p>
+<p align="center">:cookie: + :coffee: = :exploding_head:</p>
