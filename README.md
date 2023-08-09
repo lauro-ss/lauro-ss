@@ -26,7 +26,7 @@
 </div>
 <h2>Social</h2>
 
-<a href="https://www.linkedin.com/in/lauro-santana-silva-444608229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lauro-santana-444608229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <div align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=lauro-ss&&style=flat-square" align="center" /> -->
 </div>
