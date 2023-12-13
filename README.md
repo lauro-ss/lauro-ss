@@ -1,4 +1,3 @@
-<h1>console.log("Hello World");</h1>
 <h2>About Me</h2>
 <p>I am currently student at Universidade Federal de Sergipe in Brazil-SE :student:</p>
 <p>In love with Web Programing and ASP.NET :cupid: </p>
@@ -31,4 +30,3 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=lauro-ss&&style=flat-square" align="center" /> -->
 </div>
 </br>
-<p align="center">:cookie: + :coffee: = :exploding_head:</p>
