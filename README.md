@@ -12,6 +12,10 @@
 </div>
 </br>
 -->
+
+I am Lauro Santana Silva (lauro-ss) :hugs:
+
+Welcome to my github, I am majority working on my <a href="https://github.com/lauro-ss/goe">ORM for Go</a> :beaver:
 <h2>Social</h2>
 
 <a href="https://www.linkedin.com/in/lauro-santana-444608229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
