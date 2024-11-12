@@ -13,7 +13,7 @@
 </br>
 -->
 
-I am Lauro Santana Silva (lauro-ss) :hugs:
+What's up, I am Lauro Santana Silva (lauro-ss) :hugs:
 
 Welcome to my github, I am majority working on my <a href="https://github.com/lauro-ss/goe">ORM for Go</a> :beaver:
 <h2>Social</h2>
